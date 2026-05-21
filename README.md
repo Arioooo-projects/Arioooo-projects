@@ -1,3 +1,4 @@
 Hey, I'm Ario. I've been building Discord bots for about 3 to 4 years now and I've worked on just about everything you can think of. Custom bots, general purpose bots, simple ones, complex ones. If it lives on Discord, I've probably built something like it.
 I work across every major language so I'm never limited by the tools. Whether you want something built from scratch exactly how you picture it or you're looking to grab something ready to go, I've got options for both.
 Commissions are open. If you have an idea, reach out and let's talk about it. If you want to browse what's already available, check out my repositories below.
+Reach out to me via Discord: @ariooooooo_
